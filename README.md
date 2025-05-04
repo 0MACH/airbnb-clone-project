@@ -54,3 +54,11 @@ Focus: Script writing, test framework setup, identifying what to automate.
 Main Role: Bridges development and operations to streamline deployment.
 
 Focus: CI/CD pipelines, infrastructure automation, reliability, and release management.
+
+ “Technology Stack”
+ “Database Design”
+ “Feature Breakdown”
+ “API Security”
+ “CI/CD Pipeline”
+ 
+
